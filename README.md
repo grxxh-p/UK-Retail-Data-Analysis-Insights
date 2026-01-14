@@ -1,5 +1,5 @@
 # UK-Retail-Data-Analysis-Insights
-This project analyzes a UK online retail store’s transactions to study customer behavior, segment customers using RFM, and automate segmentation with ML while estimating segment-level CLV.
+This project analyzes transaction data from a UK online retail store to understand customer behavior, segment customers using RFM analysis, and automate customer segmentation with machine learning while estimating segment-level CLV
 
 ## 🛠 Tools and Techniques used
 - Python (NumPy, Pandas, Matplotlib, Scikit-learn)
