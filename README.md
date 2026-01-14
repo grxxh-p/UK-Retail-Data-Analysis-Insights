@@ -43,7 +43,28 @@ Customers segmented into Champions, Loyal, Potential, At Risk, and Lost groups.
 - **RFM-based segmentation is consistent**, allowing clear identification of “At Risk” and “Lost” customers for targeted action.
 - **Purchases peak during winter and festive months**, reflecting strong seasonal demand.
 
+## Supporting Visuals
+
+### Country Distribution
+
+![Country Distribution](images/country_distribution.png)
+
+### RFM Segments
+![RFM Segments](images/rfm_segments.png)
+
 ## 📍 Conclusion
 This project presents an end-to-end customer analytics workflow, covering data cleaning, exploratory analysis, and RFM-based customer segmentation with machine learning automation.
 It demonstrates how transactional data can be converted into actionable insights to improve retention, profitability, and business decision-making.
 
+## 📁 Project Structure
+
+```
+UK-Online-Retail-Analysis/
+├── UK_Retail_Data_Analysis_&_Insights.ipynb
+├── UK_Retail_Data_Analysis_Report.pdf
+├── UK_Retail_Dataset.zip
+├── README.md
+└── images/
+
+```
+---
