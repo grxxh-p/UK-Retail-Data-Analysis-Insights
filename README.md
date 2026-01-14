@@ -9,6 +9,7 @@ This project analyzes a UK online retail store’s transactions to study custome
 - Customer Segmentation
 - Random Forest Classification
   
+  
 ## 📂 Dataset Overview
 - Transactional dataset from a UK-based online retail store
 - ~541909 records  
@@ -61,10 +62,16 @@ It demonstrates how transactional data can be converted into actionable insights
 ```
 UK-Online-Retail-Analysis/
 ├── UK_Retail_Data_Analysis_&_Insights.ipynb
-├── UK_Retail_Data_Analysis_Report.pdf
+├── UK_Retail_Data_Analysis_&_Insights_Report.pdf
 ├── UK_Retail_Dataset.zip
 ├── README.md
 └── images/
+    ├── country_distribution.png
+    ├── monthly_transactions.png
+    ├── returns_vs_purchases.png
+    ├── rfm_segments.png
+  
+```
 
 ```
 ---
